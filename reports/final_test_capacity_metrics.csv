@@ -1,0 +1,2 @@
+Model,Actual_Shortages,Predicted_Shortages,True_Positive,False_Positive,False_Negative,True_Negative,Precision,Recall
+XGBoost,1026,842,530,312,496,4162,0.6294536817102138,0.5165692007797271

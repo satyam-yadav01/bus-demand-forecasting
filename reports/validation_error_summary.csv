@@ -1,0 +1,3 @@
+Model,Mean_Error,Overprediction_Count,Underprediction_Count,Exact_Count,Overprediction_Rate,Underprediction_Rate
+Ridge,0.004298638376410613,2946,2504,0,54.055045871559635,45.944954128440365
+XGBoost,-0.07147701954128441,2931,2519,0,53.77981651376147,46.22018348623853
